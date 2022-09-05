@@ -1,1 +1,1 @@
-### GraghQL
+### GraphQL
